@@ -1,9 +1,9 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: rails-demo
+  name: rails-demo-yad2
   title: Rails template
-  description: scaffolder Rails app
+  description: scaffolder yad2
 spec:
   owner: backstage/techdocs-core
   type: service
