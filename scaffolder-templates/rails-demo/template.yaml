@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: rails-demo-yad2
+  name: rails-demo
   title: Rails template
   description: scaffolder yad2e
 spec:
