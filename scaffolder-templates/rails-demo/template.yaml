@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: rails-demo
   title: Rails template
-  description: scaffolder yad2e
+  description: scaffolder yad2
 spec:
   owner: backstage/techdocs-core
   type: service
