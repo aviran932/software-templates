@@ -14,6 +14,12 @@ spec:
         - name
         - owner
       properties:
+        name_test:
+          title: Name_test
+          type: string
+          description: Unique name of the component
+          ui:field: EntityNamePicker
+          ui:autofocus: true
         name:
           title: Name
           type: string
